@@ -141,7 +141,7 @@ You can star or watch this project or follow author to get release notifications
 
 ## Access Password
 
-> [简体中文 > 如何增加访问密码](./README_CN.md#配置页面访问密码)
+> [简体中文 > 如何增加访问密码](./README_CN.md#配置页面访问密码) 
 
 This project provides limited access control. Please add an environment variable named `CODE` on the vercel environment variables page. The value should be passwords separated by comma like this:
 
